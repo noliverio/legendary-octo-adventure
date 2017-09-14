@@ -14,7 +14,7 @@ class Help{
             System.out.println("  3. for");
             System.out.println("  4. while");
             System.out.println("  5. do-while");
-            System.out.print("Chose one: ");
+            System.out.print("Choose one: ");
 
             choice = (char) System.in.read();
 
